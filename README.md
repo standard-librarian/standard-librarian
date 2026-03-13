@@ -11,13 +11,11 @@ Backend / platform engineer focused on developer platforms, distributed systems,
 - Currently: Backend Engineer @ 4Sale (Go, PostgreSQL, Kafka/RabbitMQ, AWS, Kubernetes)
 - Previously: Software Engineer @ Opream (Java/Spring Boot microservices, Keycloak)
 - Open source: `context-engineer`, `sftpgo-manager`
-- Teaching: Full-stack Instructor, Pixels Egypt (Helwan University student activity)
 
 ## Featured work
 
 - o16g (Outcome Engineering Platform): knowledge graph + vector search + MCP tools for engineers/agents
 - Developer Platform @ 4Sale: API keys, bulk listing APIs, signed webhooks, usage analytics
-- Cashier service: marketplace payments (KNet, wallets, subscriptions) with BDD tests
 
 ## Toolbox
 
