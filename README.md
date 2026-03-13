@@ -27,15 +27,7 @@ Backend / platform engineer focused on developer platforms, distributed systems,
 
 ## Writing
 
-I’m setting up a GitHub Pages blog in this repo under `docs/`.
-
-- Blog: https://standard-librarian.github.io/standard-librarian/
-
-Enable it:
-
-1. Repo Settings -> Pages
-2. Build and deployment: Deploy from a branch
-3. Branch: `main` and folder: `/docs`
+- Blog: https://standard-librarian.github.io/
 
 ## Links
 
