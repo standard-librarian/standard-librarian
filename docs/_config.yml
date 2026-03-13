@@ -1,0 +1,21 @@
+title: Medhat Mohammed
+description: Notes on developer platforms, Go, distributed systems, and context engineering.
+theme: minima
+
+# If you enable GitHub Pages for this repo (project pages), the published URL is:
+#   https://standard-librarian.github.io/standard-librarian/
+url: https://standard-librarian.github.io
+baseurl: /standard-librarian
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+minima:
+  skin: auto
+
+header_pages:
+  - about.md
+  - projects.md
+  - now.md
